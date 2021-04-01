@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sajjad-yousuf-96
+- 👀 I’m interested in Python Tkinter and PYQT5,Graphic Designing
+- 🌱 I’m currently learning Python Django And AI
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : Just email me at sajjad.yousuf.9^@gmail.com
