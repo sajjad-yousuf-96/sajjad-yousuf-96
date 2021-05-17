@@ -42,10 +42,7 @@
 
 
 ## &#x1f4c8; GitHub Stats
-[![sajjad-yousuf-96's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjad-yousuf-96)](https://github.com/sajjad-yousuf-96/github-readme-stats)
-![[sajjad-yousuf-96's GitHub stats](https://github-readme-stats.vercel.app/api?username=&hide=contribs,prs)
-![sajjad-yousuf-96's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjad-yousuf-96&count_private=true)
-
+![sajjad-youusf-96's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjad-youusf-96&show_icons=true&theme=radical)
 
 
 
