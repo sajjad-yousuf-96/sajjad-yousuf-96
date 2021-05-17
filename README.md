@@ -42,7 +42,7 @@
 
 
 ## &#x1f4c8; GitHub Stats
-![sajjad-yousuf-96's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjad-yousuf-96&show_icons=true&theme=radical)
+![sajjad-yousuf-96's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjad-yousuf-96&show_icons=true&theme=gradient)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjad-yousuf-96&show_icons=true&locale=en&layout=compact&theme=radical" width=60% />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjad-yousuf-96&theme=radical"  width=60% />
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sajjad-yousuf-96&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
