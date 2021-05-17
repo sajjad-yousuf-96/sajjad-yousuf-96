@@ -42,6 +42,8 @@
 
 
 ## &#x1f4c8; GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjad-yousuf-96)](https://github.com/sajjad-yousuf-96/github-readme-stats)
+
 [twitter]: https://twitter.com/sajjadyousuf96
 [instagram]: https://instagram.com/sajjad.yousuf.96/
 [linkedin]: https://www.linkedin.com/in/muhammad-sajjad-yousuf-2925a1178/
