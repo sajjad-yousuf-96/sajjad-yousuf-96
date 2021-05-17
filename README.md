@@ -28,7 +28,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=Html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=Css3&logoColor=white)
-![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
 ## 🌐 Connect with me
 
