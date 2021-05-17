@@ -42,7 +42,12 @@
 
 
 ## &#x1f4c8; GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjad-yousuf-96)](https://github.com/sajjad-yousuf-96/github-readme-stats)
+[![sajjad-yousuf-96's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjad-yousuf-96)](https://github.com/sajjad-yousuf-96/github-readme-stats)
+![[sajjad-yousuf-96's GitHub stats](https://github-readme-stats.vercel.app/api?username=&hide=contribs,prs)
+![sajjad-yousuf-96's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjad-yousuf-96&count_private=true)
+
+
+
 
 [twitter]: https://twitter.com/sajjadyousuf96
 [instagram]: https://instagram.com/sajjad.yousuf.96/
