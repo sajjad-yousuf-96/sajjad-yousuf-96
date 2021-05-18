@@ -4,7 +4,7 @@
 
 <div>
 
-<img width="40%" src="sajad-01.jpg" align="right" />
+<img width="30%" src="sajad-01.jpg" align="right" />
 
 
 
