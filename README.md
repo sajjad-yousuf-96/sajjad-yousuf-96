@@ -19,7 +19,7 @@
 </div>
 
 ## ⚡ Skills and Languages
-![Python3](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=blue)
+![Python3](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-276DC2?style=flat-square&logo=C&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white)
 ![PyQT](https://img.shields.io/badge/PyQt-0d544f?style=flat-square&logo=Qt&logoColor=white)
