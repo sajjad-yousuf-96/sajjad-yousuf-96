@@ -19,8 +19,6 @@
 </div>
 
 ## ⚡ Skills and Languages
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="30" height="20"/> </a> <a href="https://www.scala-lang.org" target="_blank">
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-276DC2?style=flat-square&logo=C&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white)
 ![PyQT](https://img.shields.io/badge/PyQt-0d544f?style=flat-square&logo=Qt&logoColor=white)
@@ -35,7 +33,7 @@
 ![ADOBE_PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black)
 
 ## 🌐 Connect with me
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank">
 [<img align="left" alt="sajjad-yousuf-96 Twitter" height="30px" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
 [<img align="left" alt="sajjad-yousuf-96 LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="sajjad-yousuf-96 Instagram" height="30px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
