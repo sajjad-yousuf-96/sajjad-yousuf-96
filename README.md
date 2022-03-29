@@ -48,7 +48,7 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjad-yousuf-96&show_icons=true&locale=en&layout=compact&theme=radical" width=60% /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad-yousuf-96&count_private=true&theme=radical" width="40%">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjad-yousuf-96&theme=radical"  width=60% />
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sajjad-yousuf-96&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sajjad-yousuf-96&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)   -->
 
 
 [twitter]: https://twitter.com/sajjadyousuf96
