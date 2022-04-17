@@ -11,7 +11,7 @@
 <br />
 <ul>
 <li>👷 Currently pursuing BSc in Software Engineering(2018-2022) from Usman Institure of Technology. </li>
-<li>💼 Working as Research Intern at <a href="https://github.com/merledu"> Micro Electronics Research Lab (MERL-UIT)</a>. </li>
+<li>💼 Working as Odoo Developer Intern at <a href="https://alhaditech.com/"> AL-HADI-TECH</a>. </li>
 <li>🔭 Started Working On Python Data Science and AI</li>
 <li>🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.</li>
 </ul>
@@ -32,7 +32,7 @@
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![ADOBE_ILLUSTRATOR](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 ![ADOBE_PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black)
-
+![ODOO](https://img.shields.io/badge/Odoo-31A8FF?style=flat-square&logo=Odoo&logoColor=black)
 ## 🌐 Connect with me
 [<img align="left" alt="sajjad-yousuf-96 Twitter" height="30px" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
 [<img align="left" alt="sajjad-yousuf-96 LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />][linkedin]
