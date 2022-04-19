@@ -19,6 +19,7 @@
 </div>
 
 ## ⚡ Skills and Languages
+![Odoo](https://img.shields.io/badge/Odoo-ca03fc?style=flat-square&logo=Odoo&logoColor=Pink)
 ![Python3](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-276DC2?style=flat-square&logo=C&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white)
