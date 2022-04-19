@@ -1,6 +1,6 @@
 # ASALAM WALIKUM PROFILE USER : MUHAMMAD SAJJAD YOUSUF
 
-## || Programmer,Python GUI Developer, Software Engineer to-be ||
+## || Programmer,Python Desktop/Web Apps Developer, Software Engineer to-be ||
 
 <div>
 
