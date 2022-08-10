@@ -1,7 +1,7 @@
 # ASALAM WALIKUM: 
 # Name: MUHAMMAD SAJJAD YOUSUF (MSY)
 
-## || Programmer,Python Desktop/Web Apps Developer, Software Engineer to-be ||
+## || Programmer,Python Desktop/Web Apps Developer, Software Engineer ||
 
 <div>
 
@@ -11,7 +11,7 @@
 
 <br />
 <ul>
-<li>👷 Currently pursuing BSc in Software Engineering(2018-2022) from Usman Institure of Technology. </li>
+<li>👷 Currently graduated in BS in Software Engineering(2018-2022) from Usman Institure of Technology. </li>
 <li>💼 Working as an Odoo Developer Intern at <a href="https://alhaditech.com/"> AL-HADI-TECH</a>. </li>
 <li>🔭 Started Working On Python Data Science, AI and ERP Systems</li>
 <li>🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.</li>
