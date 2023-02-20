@@ -5,7 +5,7 @@
 
 <div>
 
-<img width="30%" src="giphy.gif" align="right" />
+<img width="30%" src="image.gif" align="right" />
 
 
 
