@@ -60,6 +60,22 @@
 [hackerrank]: https://www.hackerrank.com/sajjad_yousuf_96
 [gmail]: mailto:sajjad.yousuf.96@gmail.com
 
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/sajjad1999 rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-beacd5b7-3b2f-4eff-b434-7474920d2e2f' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >sajjad1999</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>I am familiar with Python Language as well as Python GUI(PYQT5 or TKinter) and DJANGO framework having experience of 3.5 + years, working as influencer marketing as well and my aim is not to earn but convince the customers towards my work</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-beacd5b7-3b2f-4eff-b434-7474920d2e2f' src='https://widgets.fiverr.com/api/v1/seller/sajjad1999?widget_id=beacd5b7-3b2f-4eff-b434-7474920d2e2f' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
+
 
 <p align="center"> 
   Visitor count<br>
