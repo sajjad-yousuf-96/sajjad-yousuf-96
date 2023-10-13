@@ -12,7 +12,7 @@
 <br />
 <ul>
 <li>👷 Currently graduated in BS in Software Engineering(2018-2022) from Usman Institure of Technology. </li>
-<li>💼 Working as an JR. FULL STACK ODOO DEVELOPER at <a href="https://alhaditech.com/"> AL-HADI-TECH</a>. </li>
+<li>💼 Working as an JR. Software Engineer at <a href="https://www.excelroot.com/"> ExcelRoot</a>. </li>
 <li>🔭 Started Working On Python Data Science, Web Framework and ERP Systems</li>
 <li>💻 Backend Devotee | Working on the 'Behind-the-Scenes' of Tech 🖥️.</li>
 </ul>
